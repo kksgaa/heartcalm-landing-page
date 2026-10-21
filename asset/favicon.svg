@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Lingkaran Background -->
+  <circle cx="50" cy="50" r="50" fill="#198754" />
+  
+  <!-- Ikon Hati & Tetesan Air -->
+  <path d="M50 80 C 50 80, 15 55, 15 35 C 15 20, 30 15, 40 25 C 50 35, 50 35, 50 35 C 50 35, 50 35, 60 25 C 70 15, 85 20, 85 35 C 85 55, 50 80, 50 80 Z" fill="#ffffff" />
+  
+  <!-- Kilauan Gel/Air (Opsional untuk efek 3D) -->
+  <path d="M35 30 C 30 30, 25 35, 25 40" stroke="#e0f2e9" stroke-width="4" stroke-linecap="round" fill="transparent" opacity="0.6" />
+</svg>
